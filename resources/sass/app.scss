@@ -1,0 +1,30 @@
+// Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Node
+@import "../../node_modules/swiper/swiper-bundle.min.css";
+@import "../../node_modules/luminous-lightbox/dist/luminous-basic.min.css";
+
+// Partials
+@import 'partials/header';
+@import 'partials/footer';
+@import 'partials/hero';
+@import 'partials/icons';
+
+// Global
+@import 'global';
+
+///
+/// Nieuweland
+///
+
+// Pages
+@import "pages/homepage";
+@import "pages/show";
+@import "pages/signup";
+@import "pages/contact";
+
+// Partials
+@import "partials/hero";
+
+
